@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+data/model.pkl
+data/phishing_raw.csv
+data/phishing_extra.csv
+reports/siem_alerts.log
+reports/incident_report.pdf
